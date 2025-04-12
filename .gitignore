@@ -1,0 +1,29 @@
+# Environnement virtuel
+env/
+venv/
+.env/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datasets (si volumineux)
+data/
+
+# Logs
+logs/
+*.log
+
+# Fichiers de modèle (optionnel si trop volumineux)
+# *.pth
